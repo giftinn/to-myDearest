@@ -45,19 +45,19 @@ html:`
 <div style="position:absolute;top:5px;width:100%;overflow:hidden;">
 <div class="filmTrack">
 
-<img src="src/1.jpg" class="filmPic">
+<img src="src/1.png" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
+<img src="src/3.png" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/5.JPEG" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
-<img src="src/1.jpg" class="filmPic">
+<img src="src/1.png" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
+<img src="src/3.png" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/5.JPEG" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -110,12 +110,7 @@ html:`
 <span class="signal">TRANSMISSION START</span><br>
 
 
-Happy birthday. 
-I hope this year brings you more happiness than you expect, more peace in your heart, and more clarity in everything you’re going through. I hope you grow into an even better version of yourself and achieve all the things you’ve been quietly wishing for.
-
-May your days be filled with good moments, genuine smiles, and people who truly care about you. I hope you stay strong through every challenge and never lose the spark that makes you, you.
-
-Wishing you nothing but the best today and always.
+to my dearest rhaf, you came into my life and changed everything. i just wanted to tell how much i appreciate your existence. happy birthday to the most precious human i've ever met. the world feels better with you in it, sayang. i am so thankful that you exist. thank you for always doing your best, i know you have your shortcomings but you can always control yourself to be better. may your new age be filled with positive life and be blessed with many good moments to come, thank you for surviving in the past. i hope  you know that i love you with every once of my being. i hope you realize that you're always important not only to me, but to everyone who has been lucky enough to know you. i'm always here for you no matter what, to support you, to cheering you, to become your home. thank you for being so kind, you are loved more than you know.
 
 
 <span class="signal">END SIGNAL</span>
